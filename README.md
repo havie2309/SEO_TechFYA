@@ -8,6 +8,8 @@ The game opens with a custom title screen that introduces the playful Vietnam ad
 
 ![Ha Long Run start screen](start_game.png)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=havie2309&repo=SEO_TechFYA)](https://github.com/havie2309/SEO_TechFYA)
+
 ## Features
 
 - Vietnam-themed platformer presentation and UI
